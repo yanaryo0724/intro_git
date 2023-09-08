@@ -1,4 +1,5 @@
 gitの練習をします
 基本的なワークフローを学びます
 .git add
-.git 
+.git
+/bbbbb
